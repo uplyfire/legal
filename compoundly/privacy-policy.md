@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: March 25, 2026**
+**Last updated: May 14, 2026**
 
 Uplyfire ("we", "us", or "our") operates the Compoundly mobile application ("the App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
 
@@ -20,15 +20,17 @@ By using the App, you agree to the collection and use of information in accordan
 - **Advertising Data**: When ads are displayed, our advertising partner Google AdMob may collect device advertising identifiers, IP address, and general device information to serve and measure ads. See Section 4 for details.
 - **Purchase Data**: When you make an in-app purchase, Google Play processes the transaction. We receive a purchase token and order ID to verify your purchase status. We do not collect or store your payment method, credit card number, or billing address.
 - **Consent Data**: If you are located in the European Economic Area (EEA) or United Kingdom, the Google User Messaging Platform (UMP) SDK manages your ad personalization consent preferences. These preferences are stored locally on your device using the IAB Transparency and Consent Framework (TCF 2.0).
+- **Analytics Data**: With your consent (Section 4.A below), the App uses **Firebase Analytics** to collect aggregate, pseudonymous usage data — which screens are viewed, which features are used, purchase outcomes, app version, OS version, device model, language, approximate country (derived from IP, IP itself is discarded), and a pseudonymous app instance ID. We do **not** transmit your calculation inputs (initial amount, interest rate, monthly contribution, tax rate, inflation rate), saved-calculation names, or any free-text content. See Section 3.4.
+- **Crash Diagnostics**: With your consent (Section 4.A below), the App uses **Firebase Crashlytics** to send anonymous crash reports — stack traces, breadcrumbs, app version, device model, OS version. Used solely to diagnose and fix software defects. See Section 3.5.
 
 ### 1.3 Information We Do NOT Collect
 
 - We do **not** require account creation or login.
 - We do **not** collect your name, email address, phone number, or any other personal contact information (unless you voluntarily email us via the feedback feature).
-- We do **not** collect location data.
+- We do **not** collect precise location data (only approximate country derived from your IP for analytics, with your consent).
 - We do **not** collect photos, files, or media from your device.
-- We do **not** use analytics services (such as Firebase Analytics or similar).
-- We do **not** operate any servers that receive your data. All calculation data remains on your device.
+- We do **not** transmit your saved calculation inputs or names to our servers or to Firebase. Calculation data stays on your device.
+- We do **not** operate any servers that receive your data directly. Data described in Section 1.2 is processed by Google's services on our behalf.
 
 ---
 
@@ -79,17 +81,55 @@ We do not receive or store your payment details.
 
 For users in the EEA/UK, we use Google's UMP SDK to present a consent dialog in compliance with the EU General Data Protection Regulation (GDPR) and ePrivacy Directive. Your consent choices are stored locally on your device and can be changed at any time via Settings > Manage Ad Consent.
 
+### 3.4 Firebase Analytics (Google LLC)
+
+With your consent, we use Firebase Analytics to understand how the App is used in aggregate. Firebase Analytics processes:
+
+- App usage events (which screens you viewed, which features you used, onboarding flow, purchase outcomes)
+- Approximate country (derived from your IP at request time; the IP itself is then discarded)
+- Device model, OS version, app version, language, screen size
+- A pseudonymous app instance ID (not linked to your identity; reset when you uninstall or clear app data)
+
+We do **not** send your calculation inputs, calculation names, contributions, interest rates, or any free-text content.
+
+Consent Mode v2 is implemented: when you decline analytics consent, no Analytics data leaves your device.
+
+**Firebase Privacy**: https://firebase.google.com/support/privacy
+**Google Privacy Policy**: https://policies.google.com/privacy
+
+### 3.5 Firebase Crashlytics (Google LLC)
+
+With your consent, we use Firebase Crashlytics to receive anonymous crash reports. Crashlytics processes:
+
+- Crash stack traces and breadcrumbs (the sequence of app events leading to the crash)
+- App version, device model, OS version, language
+- An anonymous installation ID (not linked to your identity)
+
+Crash reports are used solely to diagnose and fix software defects. With analytics consent declined, no Crashlytics data leaves your device.
+
+**Crashlytics Privacy**: https://firebase.google.com/support/privacy
+
 ---
 
-## 4. Advertising and Your Choices
+## 4. Advertising, Analytics, and Your Choices
 
-### For EEA/UK Users
+### 4.A Consent for Analytics and Crashlytics
+
+For all users (regardless of region), we treat Firebase Analytics and Crashlytics as **opt-in**. The same consent dialog that handles ad personalization (Settings > Manage Ad Consent) also controls analytics and crash reporting:
+
+- **Accept**: Analytics events and crash reports are sent to Firebase as described in Sections 3.4 and 3.5.
+- **Decline**: Firebase Consent Mode v2 sets all signals (analytics_storage, ad_storage, ad_user_data, ad_personalization) to `denied`, and Crashlytics collection is disabled at the SDK level. No data leaves your device.
+- **Change your choice**: at any time via Settings > Manage Ad Consent.
+
+For users outside the EEA/UK where UMP doesn't show a dialog, analytics and crash reporting are enabled by default (consistent with the local legal basis of legitimate interest); you can still disable them via the same Settings entry where available.
+
+### 4.B Advertising — For EEA/UK Users
 Before displaying personalized ads, we request your consent through a GDPR-compliant consent dialog. You may:
 - **Accept** personalized ads based on your interests
 - **Decline** personalized ads (you may see contextual ads or no ads)
 - **Change your choice** at any time in Settings > Manage Ad Consent
 
-### For All Users
+### 4.C Advertising — For All Users
 You can limit ad personalization through your device settings:
 - **Android**: Settings > Google > Ads > Opt out of Ads Personalization
 - **Purchase Pro**: The Pro plan ($2.99, one-time) permanently removes all advertisements
