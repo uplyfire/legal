@@ -241,7 +241,7 @@ You may delete your data at any time:
 
 ### 7.3 Web-Based Data Deletion Request (Google Play Requirement)
 
-In accordance with Google Play's data deletion policy, you may also review the deletion process and submit a request via our website at: **https://scrollish.com/scrollish/data-deletion**
+In accordance with Google Play's data deletion policy, you may also review the deletion process and submit a request via our website at: **https://uplyfire.github.io/legal/scrollish/data-deletion**
 
 For data processed by Firebase Analytics and Crashlytics, you may manage or delete data associated with your device through your [Google Account settings](https://myaccount.google.com/data-and-privacy). Purchase and subscription history managed by Google Play cannot be deleted through the App; to review it, visit [Google Play Order History](https://play.google.com/store/account/orderhistory).
 
@@ -414,7 +414,7 @@ In accordance with Google Play requirements, the following summarizes our data p
 
 **Data handling declarations:**
 - **Encryption in transit:** Yes — all network communication uses HTTPS/TLS
-- **Data deletion:** Users can delete local data in-app (Settings → "Delete all my data"), clear app data, or uninstall; the reminder-scheduling record is deleted when reminders are turned off. A web-based deletion request is available at https://scrollish.com/scrollish/data-deletion. For data held by Google (Firebase, Play), see [Google's data controls](https://myaccount.google.com/data-and-privacy)
+- **Data deletion:** Users can delete local data in-app (Settings → "Delete all my data"), clear app data, or uninstall; the reminder-scheduling record is deleted when reminders are turned off. A web-based deletion request is available at https://uplyfire.github.io/legal/scrollish/data-deletion. For data held by Google (Firebase, Play), see [Google's data controls](https://myaccount.google.com/data-and-privacy)
 - **Data is not sold or shared for advertising:** We do not sell user data and display no advertising
 - **Consent:** Analytics and crash reporting are disabled until consent is granted (EEA/UK/Switzerland) and can be changed in Settings
 
