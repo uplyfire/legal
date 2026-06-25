@@ -237,7 +237,7 @@ You may delete your data at any time:
 - **Turn off reminders:** Disabling reminders in **Settings → Notifications** instructs our backend to delete the reminder-scheduling record for your device.
 - **Clear app data:** Android Settings → Apps → Scrollish → Storage → Clear Data.
 - **Uninstall the App:** Removes all locally stored data from your device and stops reminder delivery. Uninstalling does **not**, by itself, delete the reminder-scheduling record on our backend. To delete that record, turn reminders off (Settings → Notifications) before uninstalling, or email us (see below).
-- **By email request:** You may contact us at uplyfire@gmail.com. Because your learning data is stored locally on your device, we will provide instructions for the methods above; for the reminder-scheduling record, we can delete it on request. We will respond to deletion requests within 30 days.
+- **By email request:** You may contact us at [uplyfire@gmail.com](mailto:uplyfire@gmail.com). Because your learning data is stored locally on your device, we will provide instructions for the methods above; for the reminder-scheduling record, we can delete it on request. We will respond to deletion requests within 30 days.
 
 ### 7.3 Web-Based Data Deletion Request (Google Play Requirement)
 
@@ -258,7 +258,7 @@ The App does not:
 - Enable communication between users
 - Display advertising
 
-If you are a parent or guardian and believe a child under 13 has provided personal information through the App, please contact us at uplyfire@gmail.com so we can take appropriate action.
+If you are a parent or guardian and believe a child under 13 has provided personal information through the App, please contact us at [uplyfire@gmail.com](mailto:uplyfire@gmail.com) so we can take appropriate action.
 
 **Age of digital consent by jurisdiction:** For users in the EEA, the age of digital consent varies by member state (13–16 years under GDPR Art. 8). For users in Brazil, parental consent is required for processing data of children under 12 (LGPD Art. 14). If you are under the applicable age of consent in your jurisdiction, you must have a parent or legal guardian's permission to use the App, and a parent or guardian must make any consent decision (such as enabling analytics) on your behalf.
 
@@ -366,7 +366,7 @@ For users in the European Union, in accordance with Regulation (EU) 2022/2065 (t
 - **Advertising transparency:** The App displays no advertisements. Should advertising be introduced in the future, we will provide the transparency information required by the DSA at that time.
 - **Recommender systems:** Scrollish does not use profiling-based recommender systems. The order in which learning cards are presented is determined by a spaced-repetition algorithm based on your own answers and review schedule on your device, not by profiling for commercial purposes.
 - **Content moderation:** Scrollish does not host user-generated content and therefore does not perform content moderation.
-- **Point of contact:** For DSA-related inquiries, please contact us at uplyfire@gmail.com (see Section 15).
+- **Point of contact:** For DSA-related inquiries, please contact us at [uplyfire@gmail.com](mailto:uplyfire@gmail.com) (see Section 15).
 
 ---
 
@@ -387,7 +387,7 @@ Where changes affect processing activities that rely on your consent, we will se
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
 **Uplyfire**
-Email: uplyfire@gmail.com
+Email: [uplyfire@gmail.com](mailto:uplyfire@gmail.com)
 
 You may also contact us through the developer contact information listed on the [Scrollish Google Play Store listing](https://play.google.com/store/apps/details?id=com.scrollish.android).
 

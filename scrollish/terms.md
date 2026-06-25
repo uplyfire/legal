@@ -367,7 +367,7 @@ The App may be subject to export control laws and regulations. You agree not to 
 If you have any questions, concerns, or feedback regarding these Terms, please contact us at:
 
 **Uplyfire**
-Email: uplyfire@gmail.com
+Email: [uplyfire@gmail.com](mailto:uplyfire@gmail.com)
 
 ---
 

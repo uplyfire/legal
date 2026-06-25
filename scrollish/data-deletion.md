@@ -24,8 +24,8 @@ If you enabled daily reminders, a minimal record (a push token, your time zone, 
 
 ## Request deletion by email
 
-If you would like us to delete your reminder-scheduling record, or if you need help deleting your on-device data, contact us at **uplyfire@gmail.com**. We will respond within 30 days. Because your learning data is stored only on your device, we will guide you through the in-app steps above for that data.
+If you would like us to delete your reminder-scheduling record, or if you need help deleting your on-device data, contact us at **[uplyfire@gmail.com](mailto:uplyfire@gmail.com)**. We will respond within 30 days. Because your learning data is stored only on your device, we will guide you through the in-app steps above for that data.
 
 ## Contact
 
-**Uplyfire** · uplyfire@gmail.com
+**Uplyfire** · [uplyfire@gmail.com](mailto:uplyfire@gmail.com)
