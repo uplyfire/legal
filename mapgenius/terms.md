@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-**Last Updated:** March 25, 2026
+**Last Updated:** August 26, 2026
 **Effective Date:** March 25, 2026
 **Version:** 1.0
 
@@ -358,3 +358,16 @@ Email: uplyfire@gmail.com
 ## 24. Acknowledgment
 
 By using MapGenius, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions and our [Privacy Policy](privacy-policy.md).
+
+---
+
+## 25. YouTube API Services
+
+Uplyfire's internal publishing tool ("MapGenius Publisher") uses YouTube API
+Services to manage videos on our own YouTube channel. Users interacting with
+that tool or our channel agree to be bound by the
+[YouTube Terms of Service](https://www.youtube.com/t/terms). Google's data
+practices are described in the
+[Google Privacy Policy](http://www.google.com/policies/privacy). See Section 17
+of our [Privacy Policy](privacy-policy.md) for details on the limited data the
+tool accesses and how to revoke access.

@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last Updated:** March 25, 2026
+**Last Updated:** August 26, 2026
 **Effective Date:** March 25, 2026
-**Policy Version:** 1.0
+**Policy Version:** 1.1
 
 ---
 
@@ -24,6 +24,7 @@
 14. [Changes to This Privacy Policy](#14-changes-to-this-privacy-policy)
 15. [Contact Us](#15-contact-us)
 16. [Additional Disclosures](#16-additional-disclosures)
+17. [YouTube API Services](#17-youtube-api-services)
 
 ---
 
@@ -413,3 +414,34 @@ If MapGenius becomes available on iOS, this Privacy Policy also covers the iOS v
 - If you decline tracking, only non-personalized, contextual ads will be served
 - You can change your tracking preference at any time via iOS Settings > Privacy & Security > Tracking
 - The App Store "App Privacy" nutrition labels will match the data disclosures in this Privacy Policy
+
+---
+
+## 17. YouTube API Services
+
+In addition to the MapGenius mobile application, Uplyfire operates **MapGenius
+Publisher**, an internal, first-party tool that uses **YouTube API Services**
+to upload MapGenius promotional videos to our own YouTube channel
+(@mapgenius-app) and to read that channel's video statistics.
+
+By interacting with our YouTube channel or with the MapGenius Publisher tool,
+you also agree to the [YouTube Terms of Service](https://www.youtube.com/t/terms).
+Google's handling of data in connection with YouTube API Services is described
+in the [Google Privacy Policy](http://www.google.com/policies/privacy).
+
+**What data the tool accesses and stores:**
+- Our own channel's video metadata and performance statistics (views, likes,
+  comments count, watch-time metrics), retrieved via the YouTube Data API and
+  YouTube Analytics API.
+- This data concerns only our own channel and our own videos. The tool does
+  not access, collect, or store any personal data of YouTube users or viewers,
+  and it serves no third-party users.
+- Retrieved statistics are stored locally by Uplyfire for internal performance
+  reporting and can be deleted at any time. They are never sold or shared.
+
+**Revoking access:** authorized Google accounts can revoke MapGenius
+Publisher's access to their YouTube data at any time via the
+[Google security settings page](https://security.google.com/settings/security/permissions).
+
+**Contact:** for any questions about our use of YouTube API Services, contact
+uplyfire@gmail.com.
