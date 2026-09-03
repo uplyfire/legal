@@ -1,8 +1,8 @@
 # Terms of Service
 
-**Last Updated:** June 25, 2026
-**Effective Date:** June 25, 2026
-**Version:** 1.0
+**Last Updated:** September 3, 2026
+**Effective Date:** September 3, 2026
+**Version:** 1.1
 
 ---
 
@@ -36,9 +36,11 @@
 
 ---
 
-Please read these Terms of Service ("Terms") carefully before using the Scrollish mobile application (the "App"), operated by Uplyfire ("we," "us," or "our").
+Please read these Terms of Service ("Terms") carefully before using the Scrollish mobile application (the "App"), operated by Uplyfire ("we," "us," or "our"; our full identity is set out in Section 24).
 
 By downloading, installing, accessing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
+
+Where these Terms say a provision applies "only where you are not acting as a consumer", it does not apply to you if you use the App for purposes outside your trade, business, craft or profession.
 
 ---
 
@@ -66,7 +68,7 @@ Scrollish is an educational application for learning English through a feed of i
 
 Features may be added, modified, or removed over time. The specific features available to you depend on the version of the App you have installed and whether you have an active subscription.
 
-The App is available with a free tier (which provides access to a portion of the content) and a premium tier ("Scrollish Premium") available through an auto-renewing subscription, as described in Section 4.
+The App is available with a free tier (which provides access to a portion of the content) and a premium tier ("Scrollish PRO") available through an auto-renewing subscription, as described in Section 4.
 
 ---
 
@@ -82,9 +84,9 @@ If you enable reminder notifications, the App uses an anonymous, automatically g
 
 ## 4. Subscriptions, Free Trials, and In-App Purchases
 
-### 4.1 Scrollish Premium
+### 4.1 Scrollish PRO
 
-The App offers an auto-renewing premium subscription, **Scrollish Premium**, which unlocks the full course and premium features (which may include all modules and card types, premium color themes, progress backup and transfer, and additional streak shields). Premium is offered in:
+The App offers an auto-renewing premium subscription, **Scrollish PRO**, which unlocks the full course and premium features (which may include all modules and card types, PRO colour themes, progress backup and transfer, and additional streak shields). PRO is offered in:
 
 - A **monthly** plan, and
 - An **annual** plan
@@ -101,7 +103,7 @@ Subscriptions **automatically renew** at the end of each billing period (monthly
 
 ### 4.4 Cancellation
 
-You can cancel your subscription at any time through **Google Play** (Settings → "Manage subscription" in the App opens Google Play, or you can manage subscriptions directly in the Google Play Store). Cancellation takes effect at the end of the current billing period; you will retain Premium access until then. Uninstalling the App does **not** cancel your subscription.
+You can cancel your subscription at any time through **Google Play** (Settings → "Manage subscription in Google Play" in the App, or directly in the Google Play Store under Payments & subscriptions). Cancellation takes effect at the end of the current billing period; you will retain PRO access until then. Uninstalling the App does **not** cancel your subscription.
 
 ### 4.5 Payment Processing
 
@@ -132,7 +134,13 @@ We may in the future offer additional one-time in-app purchases (for example, op
 
 ### 4.10 EU/EEA Right of Withdrawal (Digital Content)
 
-If you are a consumer in the EU or EEA, you generally have a 14-day right to withdraw from a distance contract. For digital content supplied immediately, however, you are asked at the time of purchase (through Google Play) to give your express consent to immediate performance and to acknowledge that you thereby lose your right of withdrawal once supply begins, in accordance with the Consumer Rights Directive 2011/83/EU (Arts. 9 and 16(m)). This does not affect your other statutory consumer rights, including remedies for non-conforming digital content (see Section 9) and any refund rights under Google Play's policies (see Section 4.7).
+If you are a consumer in the EU or EEA, you generally have 14 days to withdraw from a distance contract.
+
+Subscriptions and in-app purchases in the App are sold and processed by **Google Play**, which acts as the seller for those transactions. The pre-contractual information, the purchase confirmation and any consent relating to the right of withdrawal are therefore provided by Google as part of the Google Play purchase flow, and your withdrawal and refund rights in respect of the transaction are exercised against Google — see [Google Play's refund policy](https://support.google.com/googleplay/answer/2479637) and Section 4.7.
+
+Under Article 16(m) of Directive 2011/83/EU (and, in Poland, art. 38 ust. 1 pkt 13 of the Consumer Rights Act, *ustawa o prawach konsumenta*), the right of withdrawal for digital content not supplied on a tangible medium is lost **only if all** of the following are satisfied: performance has begun; you gave prior express consent to performance beginning within the withdrawal period; you acknowledged that you would thereby lose the right of withdrawal; and the seller provided you with confirmation of the contract. If those conditions are not met, your right of withdrawal is unaffected.
+
+Nothing in this Section limits your other statutory consumer rights, including your remedies for non-conforming digital content under Directive (EU) 2019/770 and its national implementations (see Section 9).
 
 ---
 
@@ -146,7 +154,7 @@ The App can send optional daily reminder notifications to help you maintain your
 
 ### 6.1 Our Intellectual Property
 
-The App, including but not limited to its design, source code, graphics, user interface, learning mechanics, course and lesson content, card content, animations, audio, and branding (including the "Scrollish" name and logo), is the property of Uplyfire and is protected by applicable intellectual property laws.
+The App, including but not limited to its design, source code, graphics, user interface, learning mechanics, course and lesson content, card content, animations, audio, and branding (including the "Scrollish" name and logo), is the property of Uplyfire and is protected by applicable intellectual property laws, subject to the third-party components and assets described in Section 6.2.
 
 You may not:
 
@@ -155,7 +163,7 @@ You may not:
 - Use the App's name, logo, or branding without our prior written consent
 - Extract, scrape, or republish the App's lessons, card content, audio, or images
 
-### 6.2 Open-Source Components
+### 6.2 Open-Source Components and Third-Party Assets
 
 The App incorporates open-source software components, each subject to its own license. Notable components include:
 
@@ -170,6 +178,8 @@ The App incorporates open-source software components, each subject to its own li
 - **AboutLibraries** — Apache License 2.0, Copyright Mike Penz
 
 A complete and authoritative list of open-source components and their full license texts is available within the App under **Settings → "Open-source licenses."** Use of these components is governed by their respective licenses, not by these Terms, and nothing in these Terms restricts any rights you may have under those open-source licenses.
+
+The App also incorporates third-party creative assets under their respective licences — including the **Baloo 2** typeface (SIL Open Font License), icons from **Freepik / Flaticon**, and photographs from **Pexels**. These are credited in full under **Settings → "Open-source licenses" → "Assets & media"**, and the rights reserved in Section 6.1 do not extend to them.
 
 Certain Google and Firebase software development kits included in the App (such as Google Play Billing, Google Play Services, Firebase, and the Google User Messaging Platform) are proprietary to Google LLC and are governed by Google's applicable terms.
 
@@ -209,7 +219,7 @@ THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, E
 
 Your use of the App is at your sole risk. We do not warrant that the App will meet your specific requirements or expectations, or that any particular learning outcome will be achieved.
 
-**EU/EEA/UK Consumers:** This disclaimer does not affect your mandatory statutory rights under the EU Digital Content Directive (EU) 2019/770, the UK Consumer Rights Act 2015, or equivalent national consumer protection laws. Under these laws, digital content must be of satisfactory quality, fit for a particular purpose, and as described, and you may be entitled to a remedy if the App does not conform to the contract.
+**EU/EEA/UK Consumers:** This disclaimer does not affect your mandatory statutory rights under the EU Digital Content Directive (EU) 2019/770, the UK Consumer Rights Act 2015, or equivalent national consumer protection laws (in Poland, the Consumer Rights Act). Under these laws, digital content must be of satisfactory quality, fit for a particular purpose, and as described, and you may be entitled to a remedy if the App does not conform to the contract.
 
 **Brazilian Consumers:** This disclaimer is subject to the Brazilian Consumer Protection Code (CDC). Under the CDC, providers of products and services are liable for defects, and certain disclaimers of warranty may be considered abusive (CDC Art. 51(I)).
 
@@ -221,14 +231,14 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL UPLYFIRE, I
 
 1. **Indirect, incidental, special, consequential, or punitive damages**, including but not limited to loss of data, loss of profits, loss of goodwill, or business interruption
 2. **Any damages arising from:** your use of or inability to use the App; unauthorized access to or alteration of your data; any errors, bugs, or inaccuracies in the App's content; or any loss of locally stored learning data (which you are responsible for backing up)
-3. **Any amount exceeding** the total amount you have paid to us (through Google Play) for the App in the twelve (12) months preceding the claim, or ten euros (€10), whichever is greater
+3. **Where you are not acting as a consumer:** any amount exceeding the total amount you have paid to us (through Google Play) for the App in the twelve (12) months preceding the claim. Where you are acting as a consumer, our liability for direct loss is not capped by this paragraph and is governed by the mandatory law applicable to you, without limiting any remedy you have for non-conforming digital content under Section 9
 
 **IMPORTANT EXCEPTIONS — NOTHING IN THESE TERMS SHALL EXCLUDE OR LIMIT:**
 
 - Liability for death or personal injury caused by negligence (required under UK Consumer Rights Act 2015, Section 65, and EU law)
 - Liability for fraud or fraudulent misrepresentation
 - Liability for gross negligence or willful misconduct
-- Any liability that cannot be excluded or limited under applicable mandatory consumer protection law, including the EU Consumer Rights Directive 2011/83/EU, the UK Consumer Rights Act 2015, or the Brazilian Consumer Protection Code (CDC, Law No. 8,078/1990)
+- Any liability that cannot be excluded or limited under applicable mandatory consumer protection law, including the EU Consumer Rights Directive 2011/83/EU, the UK Consumer Rights Act 2015, the Polish Civil Code and Consumer Rights Act, or the Brazilian Consumer Protection Code (CDC, Law No. 8,078/1990)
 - Your statutory rights as a consumer, which are not affected by these Terms
 
 **EU/EEA/UK Consumers:** If you are a consumer in the EU, EEA, or UK, you benefit from mandatory consumer protection laws in your country of residence. Nothing in these Terms affects your rights under those laws, and any provisions in these Terms that conflict with such laws shall not apply to you.
@@ -241,32 +251,30 @@ Some jurisdictions do not allow the exclusion or limitation of certain damages. 
 
 ## 11. Indemnification
 
-To the maximum extent permitted by applicable law, you agree to indemnify, defend, and hold harmless Uplyfire, its directors, officers, employees, and agents from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or in connection with:
+**This Section 11 applies only where you use the App otherwise than as a consumer.** To the maximum extent permitted by applicable law, you agree to indemnify, defend, and hold harmless Uplyfire, its directors, officers, employees, and agents from and against any and all claims, damages, losses, liabilities, costs, and expenses (including reasonable attorneys' fees) arising out of or in connection with:
 
 1. Your violation of these Terms
 2. Your violation of any applicable law or regulation
 3. Your violation of any third-party rights
 
-**EU/EEA/UK Consumers:** This indemnification obligation does not apply to consumers in the EU, EEA, or UK to the extent it would constitute an unfair contract term under the Unfair Contract Terms Directive 93/13/EEC, the UK Consumer Rights Act 2015, or equivalent national legislation. In such jurisdictions, your liability is limited to damages caused by your willful misconduct or gross negligence.
-
-**Brazilian Consumers:** This clause is subject to the Brazilian Consumer Protection Code (CDC) and does not apply to the extent it would be considered an abusive clause under CDC Art. 51.
+If you are a consumer, your liability towards us is governed by applicable law and is not extended by these Terms.
 
 ---
 
 ## 12. Modifications to the App
 
-We reserve the right to modify, update, suspend, or discontinue the App (or any part thereof) at any time. For material changes that significantly reduce features available to active subscribers, we will provide reasonable notice and, where required by law, an appropriate remedy. Updates may be required to continue using the App and may be installed automatically depending on your device settings.
+We may modify, update, suspend, or discontinue the App (or any part thereof) for valid reasons, including security, legal or regulatory compliance, technical necessity, the discontinuation or change of a third-party service we depend on, or the improvement of the App. For material changes that significantly reduce features available to active subscribers, we will provide reasonable notice and, where required by law, an appropriate remedy (which may include a pro-rata refund of prepaid fees). Updates may be required to continue using the App and may be installed automatically depending on your device settings.
 
 ---
 
 ## 13. Changes to These Terms
 
-We may revise these Terms from time to time. When we make material changes, we will:
+We may revise these Terms from time to time for valid reasons, including changes in the App's features, changes in the law or in Google Play's requirements, or to correct errors or ambiguities. When we make material changes, we will:
 
-- Update the "Last Updated" date at the top of these Terms
-- Notify users through the App or the Google Play Store listing where appropriate
+- Update the "Last Updated" date and Version at the top of these Terms
+- Publish the revised Terms at this address and describe the change in the Google Play Store listing's release notes where appropriate
 
-For material changes, we will provide reasonable advance notice (at least 30 days where practicable) before the revised Terms become effective. Your continued use of the App after the revised Terms become effective constitutes your acceptance of the changes, to the extent permitted by applicable law. If you do not agree with the revised Terms, you must stop using the App and uninstall it. Where applicable law requires affirmative consent to material changes, we will seek such consent before the changes take effect.
+For material changes, we will provide reasonable advance notice (at least 30 days where practicable) before the revised Terms become effective. Your continued use of the App after the revised Terms become effective constitutes your acceptance of the changes, to the extent permitted by applicable law. If you do not agree with the revised Terms, you must stop using the App and uninstall it; if you are a subscriber, you may cancel through Google Play. Where applicable law requires affirmative consent to material changes, we will seek such consent before the changes take effect.
 
 ---
 
@@ -303,14 +311,12 @@ These Terms shall be governed by and construed in accordance with the laws of th
 Any dispute arising out of or relating to these Terms or the App shall be resolved as follows:
 
 1. **Informal Resolution:** You agree to first attempt to resolve any dispute informally by contacting us at the email address in Section 24. We will acknowledge receipt within 5 business days and attempt to resolve the dispute within 30 days of receipt.
-2. **EU Online Dispute Resolution:** If you are an EU consumer, you may also submit a complaint through the European Commission's Online Dispute Resolution (ODR) platform at [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
-3. **Formal Resolution:** If the dispute cannot be resolved informally, it shall be submitted to the competent courts. EU/EEA consumers may bring proceedings in the courts of their country of habitual residence. For all other users, disputes shall be submitted to the competent courts of Warsaw, Poland.
+2. **Out-of-court dispute resolution (EU/EEA consumers):** The European Commission's Online Dispute Resolution platform was discontinued on 20 July 2025 by Regulation (EU) 2024/3228 and is no longer available. We have not committed to using any particular alternative dispute resolution (ADR) entity. If you are an EU or EEA consumer you can still seek help from your national consumer authority or an ADR body: the Commission maintains a list of notified ADR entities under Article 20(4) of Directive 2013/11/EU at [https://consumer-redress.ec.europa.eu/](https://consumer-redress.ec.europa.eu/), and cross-border assistance is available from the European Consumer Centres Network (ECC-Net) at [https://www.eccnet.eu/](https://www.eccnet.eu/). Consumers in Poland may also contact the President of the Office of Competition and Consumer Protection (Prezes Urzędu Ochrony Konkurencji i Konsumentów, UOKiK) at [https://uokik.gov.pl/](https://uokik.gov.pl/) or a local consumer ombudsman (*powiatowy/miejski rzecznik konsumentów*).
+3. **Formal Resolution:** If the dispute cannot be resolved informally, it shall be submitted to the competent courts. Consumers may bring proceedings in the courts of their country of habitual residence, and we will bring any proceedings against a consumer only in the courts of the state where that consumer is domiciled (Regulation (EU) No 1215/2012, Arts. 18–19). Where you are not acting as a consumer, disputes shall be submitted to the competent courts of Warsaw, Poland.
 
 ### 15.3 Class Action Waiver
 
-To the extent permitted by applicable law, you agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated, or representative action.
-
-**Note:** This waiver may not be enforceable in the EU, UK, Brazil, or other jurisdictions where class action or collective redress mechanisms are protected by law. In jurisdictions where this waiver is unenforceable, it shall not apply to you.
+**This Section 15.3 applies only where you are not acting as a consumer.** To the extent permitted by applicable law, you agree that any dispute resolution proceedings will be conducted only on an individual basis and not in a class, consolidated, or representative action. Nothing in these Terms limits the rights of consumers to participate in collective redress or representative actions under Directive (EU) 2020/1828 or equivalent national laws.
 
 ---
 
@@ -334,13 +340,13 @@ Our failure to enforce any right or provision of these Terms shall not be consid
 
 ## 19. Assignment
 
-You may not assign or transfer your rights or obligations under these Terms without our prior written consent. We may assign our rights and obligations under these Terms to a successor in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of our assets, provided that the assignee agrees to be bound by these Terms. We will notify you of any such assignment through the App or the Google Play Store listing.
+You may not assign or transfer your rights or obligations under these Terms without our prior written consent. We may assign our rights and obligations under these Terms to a successor in connection with a merger, acquisition, corporate reorganization, or sale of all or substantially all of our assets, provided that the assignee agrees to be bound by these Terms and that your rights under these Terms and applicable consumer law are not reduced. We will publish notice of any such assignment at this address and in the Google Play Store listing.
 
 ---
 
 ## 20. Third-Party Services
 
-The App relies on third-party services provided by Google LLC, including Google Play Billing (subscriptions), Firebase (reminder notifications and, with consent, analytics and crash reporting), Google Play Services, and the Google User Messaging Platform (consent management). Your use of these services is subject to their respective terms and privacy policies. We are not responsible for the practices, content, or availability of third-party services. See our [Privacy Policy](privacy-policy.md) for details on the data processed by these services.
+The App relies on third-party services provided by Google LLC, including Google Play Billing (subscriptions), Google Play In-App Review, Firebase (reminder notifications, analytics and crash reporting), Google Play Services, and the Google User Messaging Platform (consent management). Your use of these services is subject to their respective terms and privacy policies. We are not responsible for the practices, content, or availability of third-party services. See our [Privacy Policy](privacy-policy.md) for details on the data processed by these services.
 
 ---
 
@@ -352,7 +358,7 @@ We shall not be liable for any failure or delay in performing our obligations un
 
 ## 22. Accessibility
 
-We are committed to making Scrollish accessible to as many users as possible, including support for assistive technologies such as TalkBack and accessible alternatives to gesture-based interactions. We endeavor to follow applicable accessibility guidelines, including the Web Content Accessibility Guidelines (WCAG) 2.1 where technically feasible for mobile applications. If you experience accessibility difficulties while using the App, please contact us at the email address in Section 24 so that we can work to address the issue.
+We aim to make Scrollish usable with assistive technologies such as TalkBack, and to provide accessible alternatives to gesture-based interactions. We use the Web Content Accessibility Guidelines and Google's accessibility guidance for Android as references where they are applicable to a mobile app, but we do not warrant conformance to any particular level. If you experience accessibility difficulties while using the App, please contact us at the email address in Section 24 and we will try to address them.
 
 ---
 
@@ -366,8 +372,12 @@ The App may be subject to export control laws and regulations. You agree not to 
 
 If you have any questions, concerns, or feedback regarding these Terms, please contact us at:
 
-**Uplyfire**
+**Uplyfire — [FULL LEGAL NAME OF THE SOLE TRADER]**
+[STREET, POSTAL CODE, CITY], Poland
+[NIP / REGON, if registered]
 Email: [uplyfire@gmail.com](mailto:uplyfire@gmail.com)
+
+We are a sole trader (a natural person acting in the course of a business) established in Poland. Our identity and contact details are also shown on the [Scrollish Google Play Store listing](https://play.google.com/store/apps/details?id=com.scrollish.android).
 
 ---
 
