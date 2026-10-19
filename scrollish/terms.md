@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Last Updated:** September 3, 2026
-**Effective Date:** September 3, 2026
+**Last Updated:** [PUBLICATION DATE]
+**Effective Date:** [PUBLICATION DATE]
 **Version:** 1.1
 
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-Please read these Terms of Service ("Terms") carefully before using the Scrollish mobile application (the "App"), operated by Uplyfire ("we," "us," or "our"; our full identity is set out in Section 24).
+Please read these Terms of Service ("Terms") carefully before using the Scrollish mobile application (the "App"), operated by Uplyfire ("we," "us," or "our"), the trading name of the person identified in Section 24.
 
 By downloading, installing, accessing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
@@ -48,11 +48,9 @@ Where these Terms say a provision applies "only where you are not acting as a co
 
 By using Scrollish, you confirm that:
 
-1. You are at least 13 years of age, or you are using the App with the consent and supervision of a parent or legal guardian
-2. You have the legal capacity to enter into a binding agreement
+1. You are at least 16 years of age. The App is not intended for anyone under 16
+2. You have the legal capacity to enter into a binding agreement or, if you are under the age of majority where you live, a parent or legal guardian has agreed to these Terms and to any purchase on your behalf
 3. You agree to comply with these Terms and all applicable local, national, and international laws and regulations
-
-If you are using the App on behalf of a minor, you accept these Terms on their behalf and are responsible for their use of the App.
 
 ---
 
@@ -64,11 +62,11 @@ Scrollish is an educational application for learning English through a feed of i
 - A spaced-repetition learning system that schedules reviews based on your answers
 - Lessons and modules organized into a course, with progression and unlocking
 - Progress tracking, daily streaks, daily goals, streak shields, experience points, and achievements
-- Saved cards, optional daily reminder notifications, and progress backup and transfer (for subscribers)
+- Saved cards, reminder notifications that you can switch off, and progress backup and transfer to a file
 
 Features may be added, modified, or removed over time. The specific features available to you depend on the version of the App you have installed and whether you have an active subscription.
 
-The App is available with a free tier (which provides access to a portion of the content) and a premium tier ("Scrollish PRO") available through an auto-renewing subscription, as described in Section 4.
+The App is available with a free tier (which provides access to the first module of the course) and a premium tier ("Scrollish PRO") available through an auto-renewing subscription, as described in Section 4.
 
 ---
 
@@ -78,7 +76,7 @@ Scrollish does **not** require you to create an account, register, or log in. Yo
 
 You may optionally provide a name or nickname so the App can greet you; this is stored only on your device and can be skipped or changed at any time.
 
-If you enable reminder notifications, the App uses an anonymous, automatically generated identifier (via Firebase Anonymous Authentication) solely to schedule and deliver those reminders. This is **not** a user account, requires no credentials from you, and does not identify you personally. See our [Privacy Policy](privacy-policy.md) for details.
+When notifications are allowed for the App, the App uses an anonymous, automatically generated identifier (via Firebase Anonymous Authentication) solely to schedule and deliver reminders. This is **not** a user account, requires no credentials from you, and does not identify you personally. See our [Privacy Policy](privacy-policy.md) for details.
 
 ---
 
@@ -86,12 +84,12 @@ If you enable reminder notifications, the App uses an anonymous, automatically g
 
 ### 4.1 Scrollish PRO
 
-The App offers an auto-renewing premium subscription, **Scrollish PRO**, which unlocks the full course and premium features (which may include all modules and card types, PRO colour themes, progress backup and transfer, and additional streak shields). PRO is offered in:
+The App offers an auto-renewing premium subscription, **Scrollish PRO**, which unlocks the full course and premium features (which may include all modules and card types, PRO colour themes, longer daily goals, and additional streak shields). PRO is offered in:
 
 - A **monthly** plan, and
 - An **annual** plan
 
-The free tier provides access to a portion of the content without a subscription.
+The free tier provides access to the first module of the course without a subscription. Progress backup and transfer is available to everyone.
 
 ### 4.2 Free Trial
 
@@ -99,11 +97,11 @@ Where offered, a subscription may begin with a **free trial**. Unless you cancel
 
 ### 4.3 Auto-Renewal
 
-Subscriptions **automatically renew** at the end of each billing period (monthly or annually, as applicable) unless cancelled at least 24 hours before the end of the current period. Your payment method will be charged for renewal within 24 hours prior to the end of the current period, at the then-current price for the applicable plan.
+Subscriptions **automatically renew** at the end of each billing period (monthly or annually, as applicable) unless you cancel before the renewal date. Google Play charges your payment method for each renewal on or around the renewal date, at the then-current price for the applicable plan (see Section 4.6 on price changes).
 
 ### 4.4 Cancellation
 
-You can cancel your subscription at any time through **Google Play** (Settings → "Manage subscription in Google Play" in the App, or directly in the Google Play Store under Payments & subscriptions). Cancellation takes effect at the end of the current billing period; you will retain PRO access until then. Uninstalling the App does **not** cancel your subscription.
+You can cancel your subscription at any time through **Google Play** (the "Manage in Google Play" button on the PRO card in the App's Settings, or directly in the Google Play Store under Payments & subscriptions). Cancellation takes effect at the end of the current billing period; you will retain PRO access until then. Uninstalling the App does **not** cancel your subscription.
 
 ### 4.5 Payment Processing
 
@@ -119,34 +117,32 @@ The price of each plan is displayed in your local currency in the App and on Goo
 
 Refund requests are governed by Google Play's refund policy. You may request a refund through:
 
-- [Google Play Order History](https://play.google.com/store/account/orderhistory) (certain purchases may be eligible for automatic refund within 48 hours of purchase)
+- [Google Play Order History](https://play.google.com/store/account/orderhistory) (refund requests made shortly after a purchase, generally within 48 hours, can usually be made there directly)
 - [Google Play Help](https://support.google.com/googleplay/answer/2479637) (for requests outside the automatic window)
 
-We may grant additional refunds at our sole discretion. Nothing in this section limits any statutory withdrawal or refund rights you may have as a consumer under applicable law (see Sections 4.10, 9, 10, and 15).
+If you are a consumer in the EEA or the UK, Section 4.10 also applies. We may grant additional refunds at our sole discretion. Nothing in this section limits any statutory withdrawal or refund rights you may have as a consumer under applicable law (see Sections 4.10, 9, 10, and 15).
 
 ### 4.8 Restoring Purchases
 
-If you reinstall the App or switch devices, you can restore your subscription via **Settings → "Restore purchases."** The App verifies your entitlement through Google Play Billing using your Google Account.
+If you reinstall the App or switch devices, you can restore your subscription via **Settings → About → "Restore purchases."** The App verifies your entitlement through Google Play Billing using your Google Account.
 
 ### 4.9 Future Purchase Options
 
 We may in the future offer additional one-time in-app purchases (for example, optional add-on courses) alongside the subscription. Any such purchases would be processed through Google Play and subject to these Terms.
 
-### 4.10 EU/EEA Right of Withdrawal (Digital Content)
+### 4.10 Right of Withdrawal and Refunds in the EEA and the UK
 
-If you are a consumer in the EU or EEA, you generally have 14 days to withdraw from a distance contract.
+If you are a consumer in the European Economic Area or the United Kingdom, **Google is the seller** (merchant of record) of subscriptions and in-app purchases in the App, so the purchase, the purchase confirmation and any refund are handled by Google Play.
 
-Subscriptions and in-app purchases in the App are sold and processed by **Google Play**, which acts as the seller for those transactions. The pre-contractual information, the purchase confirmation and any consent relating to the right of withdrawal are therefore provided by Google as part of the Google Play purchase flow, and your withdrawal and refund rights in respect of the transaction are exercised against Google — see [Google Play's refund policy](https://support.google.com/googleplay/answer/2479637) and Section 4.7.
+You have **14 days from the purchase** to withdraw from it and receive a **full refund through Google Play** — see [Google Play's refund policy](https://support.google.com/googleplay/answer/2479637) and Section 4.7. After those 14 days, you can still cancel your subscription at any time (Section 4.4): it then stops renewing, and your PRO access continues until the end of the period you have paid for.
 
-Under Article 16(m) of Directive 2011/83/EU (and, in Poland, art. 38 ust. 1 pkt 13 of the Consumer Rights Act, *ustawa o prawach konsumenta*), the right of withdrawal for digital content not supplied on a tangible medium is lost **only if all** of the following are satisfied: performance has begun; you gave prior express consent to performance beginning within the withdrawal period; you acknowledged that you would thereby lose the right of withdrawal; and the seller provided you with confirmation of the contract. If those conditions are not met, your right of withdrawal is unaffected.
-
-Nothing in this Section limits your other statutory consumer rights, including your remedies for non-conforming digital content under Directive (EU) 2019/770 and its national implementations (see Section 9).
+Nothing in this Section limits your other statutory consumer rights, including your remedies for non-conforming digital content or digital services under Directive (EU) 2019/770 and its national implementations (see Section 9).
 
 ---
 
 ## 5. Notifications
 
-The App can send optional daily reminder notifications to help you maintain your learning habit. Notifications are delivered only if you grant the device notification permission and enable reminders in the App. You can change reminder times, or turn reminders off entirely, at any time in **Settings → Notifications** or in your device's system settings. The content of reminder notifications is generated on your device and is not personalized by us based on your activity.
+The App can send reminder notifications to help you maintain your learning habit. They are delivered only while notifications are allowed for the App (on Android 13 and later, after you grant the notification permission) and are switched on in the App, which they are by default. You can change reminder times, or turn notifications off entirely, at any time in **Settings → Notifications** or in your device's system settings. The content of reminder notifications is generated on your device and is not personalized by us based on your activity.
 
 ---
 
@@ -174,14 +170,13 @@ The App incorporates open-source software components, each subject to its own li
 - **Hilt / Dagger** — Apache License 2.0, Copyright The Dagger Authors / Google LLC
 - **Coil** — Apache License 2.0, Copyright Coil Contributors
 - **Media3 / ExoPlayer** — Apache License 2.0, Copyright The Android Open Source Project
-- **Google Tink** — Apache License 2.0, Copyright Google LLC
 - **AboutLibraries** — Apache License 2.0, Copyright Mike Penz
 
 A complete and authoritative list of open-source components and their full license texts is available within the App under **Settings → "Open-source licenses."** Use of these components is governed by their respective licenses, not by these Terms, and nothing in these Terms restricts any rights you may have under those open-source licenses.
 
-The App also incorporates third-party creative assets under their respective licences — including the **Baloo 2** typeface (SIL Open Font License), icons from **Freepik / Flaticon**, and photographs from **Pexels**. These are credited in full under **Settings → "Open-source licenses" → "Assets & media"**, and the rights reserved in Section 6.1 do not extend to them.
+The App also incorporates third-party creative assets under their respective licences — including the **Inter** typeface (SIL Open Font License), icons from **Freepik / Flaticon**, and photographs from **Pexels**. These are credited in full under **Settings → "Open-source licenses" → "Assets & media"**, and the rights reserved in Section 6.1 do not extend to them.
 
-Certain Google and Firebase software development kits included in the App (such as Google Play Billing, Google Play Services, Firebase, and the Google User Messaging Platform) are proprietary to Google LLC and are governed by Google's applicable terms.
+Certain Google and Firebase software development kits included in the App (such as Google Play Billing, Google Play In-App Review and In-App Updates, Google Play Services, Firebase, the Google User Messaging Platform and the Google Mobile Ads SDK) are proprietary to Google LLC and are governed by Google's applicable terms.
 
 ### 6.3 License to Use the App
 
@@ -310,8 +305,8 @@ These Terms shall be governed by and construed in accordance with the laws of th
 
 Any dispute arising out of or relating to these Terms or the App shall be resolved as follows:
 
-1. **Informal Resolution:** You agree to first attempt to resolve any dispute informally by contacting us at the email address in Section 24. We will acknowledge receipt within 5 business days and attempt to resolve the dispute within 30 days of receipt.
-2. **Out-of-court dispute resolution (EU/EEA consumers):** The European Commission's Online Dispute Resolution platform was discontinued on 20 July 2025 by Regulation (EU) 2024/3228 and is no longer available. We have not committed to using any particular alternative dispute resolution (ADR) entity. If you are an EU or EEA consumer you can still seek help from your national consumer authority or an ADR body: the Commission maintains a list of notified ADR entities under Article 20(4) of Directive 2013/11/EU at [https://consumer-redress.ec.europa.eu/](https://consumer-redress.ec.europa.eu/), and cross-border assistance is available from the European Consumer Centres Network (ECC-Net) at [https://www.eccnet.eu/](https://www.eccnet.eu/). Consumers in Poland may also contact the President of the Office of Competition and Consumer Protection (Prezes Urzędu Ochrony Konkurencji i Konsumentów, UOKiK) at [https://uokik.gov.pl/](https://uokik.gov.pl/) or a local consumer ombudsman (*powiatowy/miejski rzecznik konsumentów*).
+1. **Informal Resolution:** We ask you to first try to resolve any dispute informally by contacting us at the email address in Section 24. We will acknowledge receipt within 5 business days and attempt to resolve the dispute within 30 days of receipt. If you are a consumer, this does not limit your right to go to court or to an out-of-court dispute resolution body at any time.
+2. **Out-of-court dispute resolution (EU/EEA consumers):** We have not committed to using any particular alternative dispute resolution (ADR) entity. If you are an EU or EEA consumer you can seek help from your national consumer authority or an ADR body: the Commission maintains a list of notified ADR entities under Article 20(4) of Directive 2013/11/EU at [https://consumer-redress.ec.europa.eu/](https://consumer-redress.ec.europa.eu/), and cross-border assistance is available from the European Consumer Centres Network (ECC-Net) at [https://www.eccnet.eu/](https://www.eccnet.eu/). Consumers in Poland may also contact the President of the Office of Competition and Consumer Protection (Prezes Urzędu Ochrony Konkurencji i Konsumentów, UOKiK) at [https://uokik.gov.pl/](https://uokik.gov.pl/) or a local consumer ombudsman (*powiatowy/miejski rzecznik konsumentów*).
 3. **Formal Resolution:** If the dispute cannot be resolved informally, it shall be submitted to the competent courts. Consumers may bring proceedings in the courts of their country of habitual residence, and we will bring any proceedings against a consumer only in the courts of the state where that consumer is domiciled (Regulation (EU) No 1215/2012, Arts. 18–19). Where you are not acting as a consumer, disputes shall be submitted to the competent courts of Warsaw, Poland.
 
 ### 15.3 Class Action Waiver
@@ -346,7 +341,7 @@ You may not assign or transfer your rights or obligations under these Terms with
 
 ## 20. Third-Party Services
 
-The App relies on third-party services provided by Google LLC, including Google Play Billing (subscriptions), Google Play In-App Review, Firebase (reminder notifications, analytics and crash reporting), Google Play Services, and the Google User Messaging Platform (consent management). Your use of these services is subject to their respective terms and privacy policies. We are not responsible for the practices, content, or availability of third-party services. See our [Privacy Policy](privacy-policy.md) for details on the data processed by these services.
+The App relies on third-party services provided by Google, including Google Play Billing (subscriptions), Google Play In-App Review and In-App Updates, Firebase (reminder notifications, operational settings through Remote Config, analytics, crash reporting and performance monitoring), Google Play Services, the Google User Messaging Platform (consent management) and Android Backup. Your use of these services is subject to their respective terms and privacy policies. We are not responsible for the practices, content, or availability of third-party services. See our [Privacy Policy](privacy-policy.md) for details on the data processed by these services.
 
 ---
 
@@ -370,14 +365,16 @@ The App may be subject to export control laws and regulations. You agree not to 
 
 ## 24. Contact Us
 
-If you have any questions, concerns, or feedback regarding these Terms, please contact us at:
+If you have any questions, concerns, or feedback regarding these Terms, please contact us. Scrollish is offered by:
 
-**Uplyfire — [FULL LEGAL NAME OF THE SOLE TRADER]**
-[STREET, POSTAL CODE, CITY], Poland
-[NIP / REGON, if registered]
-Email: [uplyfire@gmail.com](mailto:uplyfire@gmail.com)
+- **Name:** [OWNER: full name or business name], trading as Uplyfire
+- **Legal form:** [OWNER: legal form — sole trader registered in CEIDG, or unregistered activity]
+- **Address:** [OWNER: postal address as shown on Google Play], Poland
+- **NIP / REGON:** [OWNER: NIP and REGON — delete this line if not registered]
+- **Email:** [OWNER: contact email]
+- **Phone:** [OWNER: phone number as shown on Google Play]
 
-We are a sole trader (a natural person acting in the course of a business) established in Poland. Our identity and contact details are also shown on the [Scrollish Google Play Store listing](https://play.google.com/store/apps/details?id=com.scrollish.android).
+Our identity and contact details are also shown on the [Scrollish Google Play Store listing](https://play.google.com/store/apps/details?id=com.scrollish.android).
 
 ---
 
