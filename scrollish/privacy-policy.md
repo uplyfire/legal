@@ -338,7 +338,7 @@ It does not delete analytics, crash and performance data already sent to Google,
 - **Turn off analytics:** use the **"Share anonymous usage data"** switch (Section 3).
 - **Clear app data:** Android Settings → Apps → Scrollish → Storage → Clear data. This deletes the data on your device but does not contact our backend; the reminder record is then deleted automatically after 90 days, or on request.
 - **Uninstall the App:** removes all locally stored data from your device and stops reminder delivery. Uninstalling does **not**, by itself, delete the reminder record or the anonymous Firebase account. To delete them, use "Delete all data" before uninstalling; otherwise the reminder record is deleted automatically after 90 days.
-- **By email request:** contact us at uplyfire@gmail.com. The data on our side — the reminder record, the anonymous Firebase account, and analytics, crash and performance data — is pseudonymous: we cannot find it by your name or email address. If the App is still installed, the quickest way is "Delete all data" or turning notifications off. Otherwise tell us what you would like deleted. Where we can identify your installation from the information you give us (Section 14), we will delete its reminder record, its anonymous Firebase account and its Google Analytics data, and confirm when it is done; Google offers no way to delete the crash and performance data of a single installation, so that data is deleted at the end of the periods in Section 7.1. Where we cannot identify your installation, we will tell you so. For data stored only on your device, we will guide you through the methods above. We respond to deletion requests within one month.
+- **By email request:** contact us at [uplyfire@gmail.com](mailto:uplyfire@gmail.com). The data on our side — the reminder record, the anonymous Firebase account, and analytics, crash and performance data — is pseudonymous: we cannot find it by your name or email address. If the App is still installed, the quickest way is "Delete all data" or turning notifications off. Otherwise tell us what you would like deleted. Where we can identify your installation from the information you give us (Section 14), we will delete its reminder record, its anonymous Firebase account and its Google Analytics data, and confirm when it is done; Google offers no way to delete the crash and performance data of a single installation, so that data is deleted at the end of the periods in Section 7.1. Where we cannot identify your installation, we will tell you so. For data stored only on your device, we will guide you through the methods above. We respond to deletion requests within one month.
 
 ### 7.3 Web-Based Data Deletion Request (Google Play Requirement)
 
@@ -359,7 +359,7 @@ The App does not:
 - Enable communication between users
 - Display advertising
 
-If you are a parent or guardian and believe that a child under 16 is using the App, please contact us at uplyfire@gmail.com. We will help you delete the data on the device and will delete the reminder record and any other data we can identify.
+If you are a parent or guardian and believe that a child under 16 is using the App, please contact us at [uplyfire@gmail.com](mailto:uplyfire@gmail.com). We will help you delete the data on the device and will delete the reminder record and any other data we can identify.
 
 ---
 
@@ -450,7 +450,7 @@ For users in the European Union, in accordance with Regulation (EU) 2022/2065 (t
 - **Recommender systems:** Scrollish does not use profiling-based recommender systems. The order in which learning cards are presented is determined by a spaced-repetition algorithm based on your own answers and review schedule on your device, not by profiling for commercial purposes.
 - **Content moderation:** Scrollish does not host user-generated content and therefore does not perform content moderation.
 - **Trader information:** We act as a trader within the meaning of the DSA when offering the PRO subscription (in the EEA and the UK, Google Play is the seller of the subscription itself). Our identity and contact details are set out in Section 14 and on the Google Play listing.
-- **Point of contact:** For DSA-related inquiries, please contact us at uplyfire@gmail.com (see Section 14).
+- **Point of contact:** For DSA-related inquiries, please contact us at [uplyfire@gmail.com](mailto:uplyfire@gmail.com) (see Section 14).
 
 ---
 
@@ -471,7 +471,7 @@ Where changes affect processing that relies on your consent, we will ask for you
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us. The controller of your personal data, and the trader offering Scrollish PRO within the meaning of the DSA, is:
 
 - **Name:** Uplyfire (the developer of Scrollish on Google Play)
-- **Email:** uplyfire@gmail.com
+- **Email:** [uplyfire@gmail.com](mailto:uplyfire@gmail.com)
 
 You may also contact us through the developer contact information listed on the [Scrollish Google Play Store listing](https://play.google.com/store/apps/details?id=com.scrollish.android).
 

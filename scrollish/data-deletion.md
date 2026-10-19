@@ -41,11 +41,11 @@ A push token, your time zone, the times of your reminders and delivery-health in
 
 ## Request deletion by email
 
-Email us at **uplyfire@gmail.com**. The data on our side is pseudonymous, so we cannot find it by your name or email address alone: tell us what you would like deleted, and we will ask only for the information we need to identify your installation. Where we can identify it, we will delete its reminder record, its anonymous Firebase account and its Google Analytics data, and confirm when it is done (crash and performance data cannot be deleted per installation and is deleted automatically after 90 and 60 days); where we cannot identify it, we will tell you so. We respond within one month. Because your learning data is stored only on your device, we will guide you through the in-app steps above for that data.
+Email us at **[uplyfire@gmail.com](mailto:uplyfire@gmail.com)**. The data on our side is pseudonymous, so we cannot find it by your name or email address alone: tell us what you would like deleted, and we will ask only for the information we need to identify your installation. Where we can identify it, we will delete its reminder record, its anonymous Firebase account and its Google Analytics data, and confirm when it is done (crash and performance data cannot be deleted per installation and is deleted automatically after 90 and 60 days); where we cannot identify it, we will tell you so. We respond within one month. Because your learning data is stored only on your device, we will guide you through the in-app steps above for that data.
 
 ## Contact
 
 - **Name:** Uplyfire (the developer of Scrollish on Google Play)
-- **Email:** uplyfire@gmail.com
+- **Email:** [uplyfire@gmail.com](mailto:uplyfire@gmail.com)
 
 Full details: [Privacy Policy](privacy-policy.md) · [Terms of Service](terms.md)

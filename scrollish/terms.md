@@ -368,7 +368,7 @@ The App may be subject to export control laws and regulations. You agree not to 
 If you have any questions, concerns, or feedback regarding these Terms, please contact us. Scrollish is offered by:
 
 - **Name:** Uplyfire (the developer of Scrollish on Google Play)
-- **Email:** uplyfire@gmail.com
+- **Email:** [uplyfire@gmail.com](mailto:uplyfire@gmail.com)
 
 Our identity and contact details are also shown on the [Scrollish Google Play Store listing](https://play.google.com/store/apps/details?id=com.scrollish.android).
 
