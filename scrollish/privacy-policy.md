@@ -249,7 +249,7 @@ Scrollish relies on the following third-party services, all provided by Google:
 
 We do not share your information with any other third parties, data brokers, advertising networks, or analytics providers.
 
-**Data processing terms:** Our use of Google and Firebase services is governed by Google's data processing terms, including the [Firebase Data Processing and Security Terms](https://firebase.google.com/terms/data-processing-terms) and the [Google Ads Data Processing Terms](https://privacy.google.com/businesses/processorterms/) (which cover Google Analytics), together with the transfer mechanisms described in Section 10. For the Firebase services, Google Analytics and BigQuery, Google acts as a data processor (service provider) on our behalf; for some purposes of its own, described in Google's privacy policy, Google acts as an independent controller. For Google Play (billing, in-app review and updates), Google Play Services, the UMP consent service and Android Backup, Google acts as an independent controller under its own terms. [OWNER: confirm that Google signals and data sharing with Google for its own purposes are switched off in Google Analytics, then keep this sentence:] We have not enabled Google signals and do not share analytics data with Google for Google's own purposes. Android Backup is a service Google provides to you under your Google Account; we have no access to the backups it stores.
+**Data processing terms:** Our use of Google and Firebase services is governed by Google's data processing terms, including the [Firebase Data Processing and Security Terms](https://firebase.google.com/terms/data-processing-terms) and the [Google Ads Data Processing Terms](https://privacy.google.com/businesses/processorterms/) (which cover Google Analytics), together with the transfer mechanisms described in Section 10. For the Firebase services, Google Analytics and BigQuery, Google acts as a data processor (service provider) on our behalf; for some purposes of its own, described in Google's privacy policy, Google acts as an independent controller. For Google Play (billing, in-app review and updates), Google Play Services, the UMP consent service and Android Backup, Google acts as an independent controller under its own terms. We have not enabled Google signals and do not share analytics data with Google for Google's own purposes. Android Backup is a service Google provides to you under your Google Account; we have no access to the backups it stores.
 
 ---
 
@@ -310,13 +310,13 @@ To move your progress yourself, you can also use the backup-file feature describ
 - **Anonymous Firebase account** used by the reminder service: it holds only the anonymous identifier and technical sign-in information. It is deleted when you use "Delete all data" or on request; turning notifications off does not delete it, and it is not deleted automatically. Firebase keeps the IP addresses it logs for this service for a few weeks.
 - **Technical logs of our reminder backend** (which can contain the anonymous identifier, error details and the IP address of requests) are kept for 30 days.
 - **Firebase installation identifier** (used for operational settings and for delivering notifications): Google keeps it until it is deleted, and the App does not delete it — so it remains in Google's systems after you uninstall the App or clear its data, although it is no longer used; a new identifier is created on the next installation. After deletion, Google removes it from its systems within 180 days.
-- **Firebase Analytics:** event-level data linked to the app-instance identifier is kept for **[OWNER: GA4 data retention setting — 2 months or 14 months]**, then deleted by Google. Aggregated reports that do not identify an installation may be kept longer.
+- **Firebase Analytics:** event-level data linked to the app-instance identifier is kept for **2 months**, then deleted by Google. Aggregated reports that do not identify an installation may be kept longer.
 - **Firebase Crashlytics:** crash reports and their identifiers are kept for 90 days.
 - **Firebase Performance Monitoring:** measurements associated with an IP address are kept for 30 days; measurements linked to an installation identifier for 60 days.
-- **Exports to Google BigQuery:** we keep copies of analytics, crash and performance data in our Google BigQuery project for analysis, for **[OWNER: BigQuery retention period for the Analytics, Crashlytics and Performance exports]**.
+- **Exports to Google BigQuery:** we keep copies of analytics, crash and performance data in our Google BigQuery project for analysis, for as long as we need them to analyse and improve the App; we delete them when they are no longer needed for that purpose.
 - **Firebase App Check tokens** are valid for at most 7 days and are not stored by us.
-- **Emails and card reports you send us:** kept for as long as needed to handle your message, and then for no longer than **[OWNER: retention period for support emails]**, unless we need them longer to establish, exercise or defend legal claims.
-- **Purchase records:** the record of your purchases on your device is kept until you delete the App's data or uninstall it. We keep the order information from the Google Play Console for **[OWNER: retention period required by accounting and tax law]**. Google Play keeps its own records under Google's terms.
+- **Emails and card reports you send us:** kept for as long as needed to handle your message and then deleted, unless we need them longer to establish, exercise or defend legal claims.
+- **Purchase records:** the record of your purchases on your device is kept until you delete the App's data or uninstall it. We keep the order information from the Google Play Console for as long as accounting and tax law requires (in Poland, generally five years from the end of the year of the sale). Google Play keeps its own records under Google's terms.
 
 ### 7.2 Deleting Your Data
 
@@ -338,7 +338,7 @@ It does not delete analytics, crash and performance data already sent to Google,
 - **Turn off analytics:** use the **"Share anonymous usage data"** switch (Section 3).
 - **Clear app data:** Android Settings → Apps → Scrollish → Storage → Clear data. This deletes the data on your device but does not contact our backend; the reminder record is then deleted automatically after 90 days, or on request.
 - **Uninstall the App:** removes all locally stored data from your device and stops reminder delivery. Uninstalling does **not**, by itself, delete the reminder record or the anonymous Firebase account. To delete them, use "Delete all data" before uninstalling; otherwise the reminder record is deleted automatically after 90 days.
-- **By email request:** contact us at [OWNER: contact email]. The data on our side — the reminder record, the anonymous Firebase account, and analytics, crash and performance data — is pseudonymous: we cannot find it by your name or email address. If the App is still installed, the quickest way is "Delete all data" or turning notifications off. Otherwise tell us what you would like deleted. Where we can identify your installation from the information you give us (Section 14), we will delete its reminder record, its anonymous Firebase account and its Google Analytics data, and confirm when it is done; Google offers no way to delete the crash and performance data of a single installation, so that data is deleted at the end of the periods in Section 7.1. Where we cannot identify your installation, we will tell you so. For data stored only on your device, we will guide you through the methods above. We respond to deletion requests within one month.
+- **By email request:** contact us at uplyfire@gmail.com. The data on our side — the reminder record, the anonymous Firebase account, and analytics, crash and performance data — is pseudonymous: we cannot find it by your name or email address. If the App is still installed, the quickest way is "Delete all data" or turning notifications off. Otherwise tell us what you would like deleted. Where we can identify your installation from the information you give us (Section 14), we will delete its reminder record, its anonymous Firebase account and its Google Analytics data, and confirm when it is done; Google offers no way to delete the crash and performance data of a single installation, so that data is deleted at the end of the periods in Section 7.1. Where we cannot identify your installation, we will tell you so. For data stored only on your device, we will guide you through the methods above. We respond to deletion requests within one month.
 
 ### 7.3 Web-Based Data Deletion Request (Google Play Requirement)
 
@@ -359,7 +359,7 @@ The App does not:
 - Enable communication between users
 - Display advertising
 
-If you are a parent or guardian and believe that a child under 16 is using the App, please contact us at [OWNER: contact email]. We will help you delete the data on the device and will delete the reminder record and any other data we can identify.
+If you are a parent or guardian and believe that a child under 16 is using the App, please contact us at uplyfire@gmail.com. We will help you delete the data on the device and will delete the reminder record and any other data we can identify.
 
 ---
 
@@ -387,7 +387,7 @@ The App's manifest declares the following Android permissions. The first three a
 
 ## 10. International Data Transfers
 
-The reminder record described in Section 1.3(b) is stored in Google Cloud Firestore in the **`europe-west1` region (Belgium, European Union)**, and the functions that write and use it run in the same region. Push-message delivery (Firebase Cloud Messaging), Firebase Authentication, Remote Config, App Check and, where enabled, Firebase Analytics, Crashlytics and Performance Monitoring are global Google services and involve processing on Google infrastructure outside the European Economic Area, **including in the United States**. Android backups are stored by Google under your Google Account. The copies of analytics, crash and performance data we export to Google BigQuery are stored in **[OWNER: BigQuery dataset location, e.g. EU multi-region or US]**.
+The reminder record described in Section 1.3(b) is stored in Google Cloud Firestore in the **`europe-west1` region (Belgium, European Union)**, and the functions that write and use it run in the same region. Push-message delivery (Firebase Cloud Messaging), Firebase Authentication, Remote Config, App Check and, where enabled, Firebase Analytics, Crashlytics and Performance Monitoring are global Google services and involve processing on Google infrastructure outside the European Economic Area, **including in the United States**. Android backups are stored by Google under your Google Account. The copies of analytics, crash and performance data we export to Google BigQuery are stored in the **EU multi-region**.
 
 For transfers of personal data from the European Economic Area (EEA), the United Kingdom (UK), or Switzerland to countries without an adequacy decision, Google relies on the following:
 
@@ -450,7 +450,7 @@ For users in the European Union, in accordance with Regulation (EU) 2022/2065 (t
 - **Recommender systems:** Scrollish does not use profiling-based recommender systems. The order in which learning cards are presented is determined by a spaced-repetition algorithm based on your own answers and review schedule on your device, not by profiling for commercial purposes.
 - **Content moderation:** Scrollish does not host user-generated content and therefore does not perform content moderation.
 - **Trader information:** We act as a trader within the meaning of the DSA when offering the PRO subscription (in the EEA and the UK, Google Play is the seller of the subscription itself). Our identity and contact details are set out in Section 14 and on the Google Play listing.
-- **Point of contact:** For DSA-related inquiries, please contact us at [OWNER: contact email] (see Section 14).
+- **Point of contact:** For DSA-related inquiries, please contact us at uplyfire@gmail.com (see Section 14).
 
 ---
 
@@ -470,12 +470,8 @@ Where changes affect processing that relies on your consent, we will ask for you
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us. The controller of your personal data, and the trader offering Scrollish PRO within the meaning of the DSA, is:
 
-- **Name:** [OWNER: full name or business name], trading as Uplyfire
-- **Legal form:** [OWNER: legal form — sole trader registered in CEIDG, or unregistered activity]
-- **Address:** [OWNER: postal address as shown on Google Play], Poland
-- **NIP / REGON:** [OWNER: NIP and REGON — delete this line if not registered]
-- **Email:** [OWNER: contact email]
-- **Phone:** [OWNER: phone number as shown on Google Play]
+- **Name:** Uplyfire (the developer of Scrollish on Google Play)
+- **Email:** uplyfire@gmail.com
 
 You may also contact us through the developer contact information listed on the [Scrollish Google Play Store listing](https://play.google.com/store/apps/details?id=com.scrollish.android).
 
