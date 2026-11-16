@@ -13,12 +13,13 @@ Open **Settings → Danger zone → "Delete all data"**, type DELETE and confirm
 - permanently deletes from your device all your progress, streaks, XP, achievements, saved cards, card reports, reminders and settings, and your optional name;
 - instructs our backend to delete your reminder record and the anonymous Firebase account behind it (if you are offline, the App retries the next time it is online);
 - switches notifications off;
-- gives the App a new Google Analytics identifier and deletes crash reports not yet sent, so later Google Analytics events are not linked to your earlier ones (the Firebase and Crashlytics installation identifiers stay the same).
+- gives the App a new Google Analytics identifier and deletes crash reports not yet sent, so later Google Analytics events are not linked to your earlier ones (the Firebase and Crashlytics installation identifiers and, where it is collected, the Advertising ID stay the same).
 
 It keeps your analytics choice (so an earlier "off" stays off) and a few technical records the App needs to work correctly, such as a note that the rating prompt was already shown, the operational settings, the record of your purchases and the Firebase identifiers. It does not delete:
 
-- analytics, crash and performance data already sent to Google — that is deleted automatically at the end of its retention period (Privacy Policy, Section 7.1); Google Analytics data can also be deleted on request (below);
+- analytics, crash and performance data already sent to Google — that is deleted automatically at the end of its retention period, and our copies in Google BigQuery are kept as described in the Privacy Policy, Section 7.1; Google Analytics data and our BigQuery copies can also be deleted on request (below);
 - copies of the reminder record in our database backups, which are kept for up to 8 weeks and used only to recover from data loss;
+- the record of your recent registration requests, which is deleted about 24 hours after the last request;
 - the copy in your Android backup, which is replaced at Android's next backup, normally within about a day; you can also delete backups in your Android or Google Account settings;
 - backup files you exported yourself, and your purchase history, which Google Play manages.
 
@@ -31,7 +32,7 @@ It keeps your analytics choice (so an earlier "off" stays off) and a few technic
 
 ## What the reminder record contains
 
-A push token, your time zone, the times of your reminders and delivery-health information, keyed to an anonymous identifier — **no name, no learning data, no email**. It is stored on our reminder backend in the European Union (Belgium) and deleted as described above, or automatically after 90 days without use. Copies can remain in our database backups for up to 8 weeks; we use them only to recover from data loss.
+A push token, which of our apps it is for, your time zone, the times at which the App may show a notification (your reminder times and a few other times that depend on the notification groups you have switched on), delivery-health information and a retention date, keyed to an anonymous identifier — **no name, no learning data, no email**. It is stored on our reminder backend in the European Union (Belgium) and deleted as described above, or automatically after 90 days without use. Copies can remain in our database backups for up to 8 weeks; we use them only to recover from data loss.
 
 ## Data managed by third parties
 
@@ -41,7 +42,7 @@ A push token, your time zone, the times of your reminders and delivery-health in
 
 ## Request deletion by email
 
-Email us at **[uplyfire@gmail.com](mailto:uplyfire@gmail.com)**. The data on our side is pseudonymous, so we cannot find it by your name or email address alone: tell us what you would like deleted, and we will ask only for the information we need to identify your installation. Where we can identify it, we will delete its reminder record, its anonymous Firebase account and its Google Analytics data, and confirm when it is done (crash and performance data cannot be deleted per installation and is deleted automatically after 90 and 60 days); where we cannot identify it, we will tell you so. We respond within one month. Because your learning data is stored only on your device, we will guide you through the in-app steps above for that data.
+Email us at **[uplyfire@gmail.com](mailto:uplyfire@gmail.com)**. The data on our side is pseudonymous, so we cannot find it by your name or email address alone: tell us what you would like deleted, and we will ask only for the information we need to identify your installation. Where we can identify it, we will delete its reminder record, its anonymous Firebase account, its Google Analytics data and its rows in the copies we exported to Google BigQuery, and confirm when it is done (in Firebase itself, crash and performance data cannot be deleted per installation and is deleted automatically after 90 and 60 days); where we cannot identify it, we will tell you so. We respond within one month. Because your learning data is stored only on your device, we will guide you through the in-app steps above for that data.
 
 ## Contact
 

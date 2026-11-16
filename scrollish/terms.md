@@ -74,7 +74,7 @@ The App is available with a free tier (which provides access to the first module
 
 Scrollish does **not** require you to create an account, register, or log in. You do not provide a username, password, or email address to use the App. Your learning data is stored locally on your device.
 
-You may optionally provide a name or nickname so the App can greet you; this is stored only on your device and can be skipped or changed at any time.
+You may optionally provide a name or nickname so the App can greet you; this is stored on your device (and in backups you control), is never sent to us, and can be skipped or changed at any time.
 
 When notifications are allowed for the App, the App uses an anonymous, automatically generated identifier (via Firebase Anonymous Authentication) solely to schedule and deliver reminders. This is **not** a user account, requires no credentials from you, and does not identify you personally. See our [Privacy Policy](privacy-policy.md) for details.
 
@@ -172,9 +172,9 @@ The App incorporates open-source software components, each subject to its own li
 - **Media3 / ExoPlayer** — Apache License 2.0, Copyright The Android Open Source Project
 - **AboutLibraries** — Apache License 2.0, Copyright Mike Penz
 
-A complete and authoritative list of open-source components and their full license texts is available within the App under **Settings → "Open-source licenses."** Use of these components is governed by their respective licenses, not by these Terms, and nothing in these Terms restricts any rights you may have under those open-source licenses.
+A complete and authoritative list of open-source components and their full license texts is available within the App under **Settings → About → "Open-source licenses."** Use of these components is governed by their respective licenses, not by these Terms, and nothing in these Terms restricts any rights you may have under those open-source licenses.
 
-The App also incorporates third-party creative assets under their respective licences — including the **Inter** typeface (SIL Open Font License), icons from **Freepik / Flaticon**, and photographs from **Pexels**. These are credited in full under **Settings → "Open-source licenses" → "Assets & media"**, and the rights reserved in Section 6.1 do not extend to them.
+The App also incorporates third-party creative assets under their respective licences — including the **Inter** typeface (SIL Open Font License), **Phosphor** icons (MIT License), icons from **Freepik / Flaticon**, music jingles from **Kenney** (CC0) and photographs from **Pexels**. These are credited in full under **Settings → About → "Open-source licenses" → "Assets & media"**, and the rights reserved in Section 6.1 do not extend to them.
 
 Certain Google and Firebase software development kits included in the App (such as Google Play Billing, Google Play In-App Review and In-App Updates, Google Play Services, Firebase, the Google User Messaging Platform and the Google Mobile Ads SDK) are proprietary to Google LLC and are governed by Google's applicable terms.
 
