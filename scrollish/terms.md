@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Last Updated:** [PUBLICATION DATE]
-**Effective Date:** [PUBLICATION DATE]
+**Last Updated:** November 16, 2026
+**Effective Date:** November 16, 2026
 **Version:** 1.1
 
 ---

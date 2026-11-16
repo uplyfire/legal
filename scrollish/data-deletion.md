@@ -1,6 +1,6 @@
 # Data Deletion — Scrollish
 
-**Last Updated:** [PUBLICATION DATE] · Corresponds to Privacy Policy version 1.1
+**Last Updated:** November 16, 2026 · Corresponds to Privacy Policy version 1.1
 
 Scrollish (by Uplyfire) stores your learning data — your progress, streaks, saved cards, achievements, settings, and the optional name you choose — **on your device**. We do not keep this data on our servers and we do not maintain user accounts.
 
